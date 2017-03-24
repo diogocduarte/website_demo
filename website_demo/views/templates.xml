@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+<template id="default_view" name="Default View">
+    <html>
+        <head></head>
+        <body>
+            <h1>Hello from template</h1>
+        </body>
+    </html>
+</template>
+</odoo>
